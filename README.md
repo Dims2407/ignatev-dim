@@ -12,8 +12,11 @@
 ### 📁 Тестовая документация:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+  <a href="https://www.atlassian.com/ru/software/jira">
+    <img src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-kkop6eik.png" title="jira" alt="jira" width="40" height="40"/></a>
+ <a href="https://www.figma.com/file/hzyDexVTw6RY44ieGFGEnK/tik-tak-toe-online?type=design&node-id=0-1&mode=design&t=iAdgFUVGVZCvaGsL-0">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
+ </a>
 </div>
 
 ---
@@ -57,6 +60,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/WebStorm_Icon.png" title="webstorm" alt="webstorm" width="39" height="39"/>&nbsp
+  
   
 
 </div>
