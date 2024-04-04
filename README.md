@@ -6,13 +6,24 @@
 
 Я тестировщик, а в будущем надеюсь стать QA/QC engineer.
 
+---
+
+### 📜 Теория тестирования (несколько заданий с моим решением): 
+
+<a href="https://docs.google.com/spreadsheets/d/1ky5xqxsvrR6cl06n7CAhLQOOg2yVGkcEYnVs2EG4ecU/edit?usp=sharing">Определение кейсов для регрессии</a>
+
+<a href="https://docs.google.com/spreadsheets/d/1JARuviLKgzOJTb5OQSipt7OI2kW0Ddee0KQd7Uojgcc/edit?usp=sharing">Анализ требований</a>
+
+<a href="https://docs.google.com/spreadsheets/d/191TqhsbnSKTHNpUqQkiQWwf1RdrrdIJksy1Vdfuh6uM/edit?usp=sharing">Техники тест-дизайна. Задание на классы эквивалентности и граничные значения</a>
+
+
 
 ---
 
 ### 📁 Тестовая документация:
 
 <div>
- <a href="https://www.atlassian.com/ru/software/jira" target="_blank">
+ <a href="https://www.atlassian.com/ru/software/jira">
     <img src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-kkop6eik.png" title="jira" alt="jira" width="40" height="40"/></a>
  <a href="https://www.figma.com/file/hzyDexVTw6RY44ieGFGEnK/tik-tak-toe-online?type=design&node-id=0-1&mode=design&t=iAdgFUVGVZCvaGsL-0">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
