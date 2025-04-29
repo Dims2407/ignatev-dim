@@ -28,16 +28,25 @@
 
 <a href="https://docs.google.com/spreadsheets/d/1Nt0cnA_HHSRU47yE2Ocf-CbnY2brJB4Cfi4T4oKYYDc/edit?usp=sharing">Решение в таблице</a>
 
-
+---
 
 В рамках учебного задания требуется: 
 Провести анализ требований модуля "Регистрация и Авторизация" для приложения "Интернет-магазин".
 Проанализировать доступные требования, найти несоответствия качественных характеристик требований.
 
-<a href="https://docs.google.com/spreadsheets/d/1EWxu0JqHnHU_ceN5QKbJKOI0d7Gh3O0WCXffwT5bKk8/edit?usp=sharing">Список историй и решение</a>
-
+<a href="https://docs.google.com/spreadsheets/d/1EWxu0JqHnHU_ceN5QKbJKOI0d7Gh3O0WCXffwT5bKk8/edit?usp=sharing">Список историй и Решение</a>.
 
 ---
+
+В рамках учебного задания требуется: 
+
+Создать таблицу с исходными данными для попарного тестирования, включающую параметры и значения.
+Используя инструмент pict или teremok, сгенерировать тестовые данные для тестирования на основе алгоритма Pairwise.
+Создайте таблицу с двумя вкладками: исходные данные и тестируемые значения после применения алгоритма.
+
+<a href="https://docs.google.com/spreadsheets/d/157g6t2QWp0JaAQRbT1U6heBtidg3LdZzEMDQeZzi-w8/edit?usp=sharing
+">Решение</a>.
+ 
 
 
 
@@ -65,20 +74,13 @@
 
 ### ✏️ Работа с кодом:
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/WebStorm_Icon.png" title="webstorm" alt="webstorm" width="39" height="39"/>&nbsp
-  
-  
 
-</div>
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+### 💻 Пройденные курсы:
 Тестировщик с нуля 2025. Web/Mobile, Postman, SQL, Git, Bash:
 https://www.udemy.com/course/qaengineer
 
 
---- -->
+
