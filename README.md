@@ -55,12 +55,14 @@
 Обязательно добавьте атрибут "Статус", "USER STORY ID", "BUG ID".
 "USER STORY ID" должен включать идентификатор пользовательской истории, для которой написана проверка.
 
-<a href="https://docs.google.com/spreadsheets/d/1vIA-aETWDOfLg3JS2sPgT4Kr7qzOYhJzd0fsZgI-_Hk/edit?gid=0#gid=0
-">Решение</a>.
+<a href="https://docs.google.com/spreadsheets/d/1vIA-aETWDOfLg3JS2sPgT4Kr7qzOYhJzd0fsZgI-_Hk/edit?gid=0#gid=0">Решение</a>.
 
 ---
 
 
+<a href="https://docs.google.com/spreadsheets/d/1cjCu2gw-mFivgXh6cXsTCbbofBS-GyvKiNHm6QLJDA4/edit?usp=sharing">Табличка с примером тест-кейсов</a>.
+
+---
 
 ### 🛠 Тестирование веб-приложений:
 
