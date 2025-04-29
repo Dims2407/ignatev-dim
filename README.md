@@ -47,9 +47,18 @@
 <a href="https://docs.google.com/spreadsheets/d/157g6t2QWp0JaAQRbT1U6heBtidg3LdZzEMDQeZzi-w8/edit?usp=sharing
 ">Решение</a>.
  
+---
 
+Задача
 
+Напишите чек-лист, который будет включать тестирование для Registration and Authorization.
+Обязательно добавьте атрибут "Статус", "USER STORY ID", "BUG ID".
+"USER STORY ID" должен включать идентификатор пользовательской истории, для которой написана проверка.
 
+<a href="https://docs.google.com/spreadsheets/d/1vIA-aETWDOfLg3JS2sPgT4Kr7qzOYhJzd0fsZgI-_Hk/edit?gid=0#gid=0
+">Решение</a>.
+
+---
 
 
 
